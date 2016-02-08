@@ -1,0 +1,5 @@
+com\hedx\hadoop\MREReducer2.class
+com\hedx\hadoop\MREMapper1.class
+com\hedx\hadoop\MREReducer1.class
+com\hedx\hadoop\MREMapper2.class
+com\hedx\hadoop\MREJob.class
